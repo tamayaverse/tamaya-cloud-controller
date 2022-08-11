@@ -951,13 +951,13 @@ select:active {
 }
 
 .noVNC_logo {
-  color:yellow;
+  color:white;
   font-family: 'Orbitron', 'OrbitronTTF', sans-serif;
   line-height:90%;
   text-shadow: 0.1em 0.1em 0 black;
 }
 .noVNC_logo span{
-  color:green;
+  color:rgb(110, 132, 163);
 }
 
 #noVNC_bell {
